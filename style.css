@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+}
+nav>span{
+    color:white;
+}
+ul{
+    display: flex;
+}
+li{
+    list-style: none;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: none;
+    color: white;
+}
+.welcome{
+    height: 500px;
+    background: url(http://images.akamai.steamusercontent.com/ugc/491274240789527074/BA42E43828C826DA1099CAFF358423B555F47DBC/);
+    color: white;
+}
+footer{
+    color:white;
+}
+.my-group{
+    background: url(https://sun9-28.userapi.com/c858216/v858216509/6db34/K2U4v_BTyr8.jpg);
+}
